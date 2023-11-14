@@ -1,18 +1,17 @@
-## Getting Started
+## Mario: Whac-A-Mole
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Overview
+Java-based desktop game inspired by the classic arcade experience:
 
-## Folder Structure
+# Features
 
-The workspace contains two folders by default, where:
+Score Tracking: Keep an eye on your score displayed at the top. Can you beat your high score?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# How to Play
+Download and run the game on any system with Java installed.
+Click on the appearing moles (Monty Moles) to gain points.
+Avoid clicking on the Piranha Plants, or it's game over!
+Track your score at the top of the game window.
+Click "New Game" to reset and start a fresh game.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Demo https://gyazo.com/52ae44689a79b42a7b6a8ba3e103e7b4
