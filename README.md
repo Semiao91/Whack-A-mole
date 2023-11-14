@@ -1,13 +1,13 @@
-## Mario: Whac-A-Mole
+# Mario: Whac-A-Mole
 
-# Overview
+## Overview
 Java-based desktop game inspired by the classic arcade experience:
 
-# Features
+## Features
 
 Score Tracking: Keep an eye on your score displayed at the top. Can you beat your high score?
 
-# How to Play
+## How to Play
 Download and run the game on any system with Java installed.
 Click on the appearing moles (Monty Moles) to gain points.
 Avoid clicking on the Piranha Plants, or it's game over!
